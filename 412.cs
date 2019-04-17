@@ -56,8 +56,8 @@ namespace _412
                         Console.WriteLine(result);
                         continue;
                      case "3":
-                        result = "'ANDREW??'. Catu leaps from her bed with a vigor and traps you for an eternity as "
-                           + "she begins waxing poetry about Andrew's eyes.";
+                        result = "'*crush*??'. Catu leaps from her bed with a vigor and traps you for an eternity as "
+                           + "she begins waxing poetry about *crush*'s eyes.";
                         Console.WriteLine(result);
                         continue;
                      default:
